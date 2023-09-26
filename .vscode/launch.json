@@ -4,7 +4,41 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Desafio01",
+            "request": "launch",
+            "mainClass": "Desafio01",
+            "projectName": "Dio_SantanderBootcamp-Backend-Java_2705e14f"
+        },
+        {
+            "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Desafio",
+            "projectName": "Dio_SantanderBootcamp-Backend-Java_2705e14f"
+        },
+        {
+            "type": "java",
+            "name": "BancoApp",
+            "request": "launch",
+            "mainClass": "DesafioControleFluxo.BancoApp",
+            "projectName": "Dio_SantanderBootcamp-Backend-Java_2705e14f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "DesafioControleFluxo.Main",
+            "projectName": "Dio_SantanderBootcamp-Backend-Java_2705e14f"
+        },
+        {
+            "type": "java",
+            "name": "BancoOrganizadorAtivos",
+            "request": "launch",
+            "mainClass": "DesafioControleFluxo.BancoOrganizadorAtivos",
+            "projectName": "Dio_SantanderBootcamp-Backend-Java_2705e14f"
+        },
         {
             "type": "java",
             "name": "Attach",
